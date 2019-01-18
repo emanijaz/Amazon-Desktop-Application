@@ -1,0 +1,183 @@
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).pdb
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\Antlr3.Runtime.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.Core.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\EntityFramework.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\System.Web.Optimization.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\System.Web.Providers.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\WebGrease.dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\EntityFramework.xml
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.Core.xml
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).csprojResolveAssemblyReference.cache
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).dll
+C:\Users\Mian Talat\Documents\Visual Studio 2012\Projects\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).pdb
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).dll.config
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).pdb
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Antlr3.Runtime.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.Core.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\EntityFramework.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\System.Web.Optimization.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\System.Web.Providers.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\WebGrease.dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\EntityFramework.xml
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.Core.xml
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).csprojResolveAssemblyReference.cache
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).dll
+C:\Users\emani\Desktop\myAmazon(2)\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).pdb
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).dll.config
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).pdb
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Antlr3.Runtime.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.Core.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\EntityFramework.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\System.Web.Optimization.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\System.Web.Providers.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\WebGrease.dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\EntityFramework.xml
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.Core.xml
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).csprojResolveAssemblyReference.cache
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).dll
+C:\Users\Hafsa\Documents\Visual Studio 2015\Projects\myAmazon(2)\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).pdb
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).pdb
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Antlr3.Runtime.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.Core.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\EntityFramework.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\System.Web.Optimization.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\System.Web.Providers.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\WebGrease.dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\EntityFramework.xml
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.Core.xml
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).csprojResolveAssemblyReference.cache
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).dll
+C:\Users\l154267\Desktop\amazon\myAmazon(2)\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).pdb
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).pdb
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\Antlr3.Runtime.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.Core.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\EntityFramework.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\System.Web.Optimization.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\System.Web.Providers.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\WebGrease.dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\EntityFramework.xml
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.Core.xml
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).csprojResolveAssemblyReference.cache
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).dll
+C:\Users\Mian Talat\Desktop\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).pdb
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).dll.config
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\myAmazon(2).pdb
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\Antlr3.Runtime.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.Core.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\EntityFramework.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\System.Web.Optimization.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\System.Web.Providers.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\WebGrease.dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\EntityFramework.xml
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.Core.xml
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).csprojResolveAssemblyReference.cache
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).dll
+C:\Users\emani\Desktop\myAmazon(2)_2May(532pm)\myAmazon(2)\myAmazon(2)\obj\Debug\myAmazon(2).pdb

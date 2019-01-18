@@ -1,0 +1,120 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin_Master.master.cs" Inherits="Signup.Admin_Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>myAmazon</title>
+
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet"/>      
+		<link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet"/>
+		
+		<link href="themes/css/bootstrappage.css" rel="stylesheet"/>
+
+
+    <!-- global styles -->
+		<link href="themes/css/flexslider.css" rel="stylesheet"/>
+		<link href="themes/css/main.css" rel="stylesheet"/>
+    	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<meta name="description" content=""/>
+		<!--[if ie]><meta content='IE=8' http-equiv='X-UA-Compatible'/><![endif]-->
+		<!-- bootstrap -->
+
+    <!-- scripts -->
+        <script type ="text/javascript"></script>
+		<script type ="text/javascript" src="themes/js/jquery-1.7.2.min.js"></script>
+		<script type ="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>				
+		<script type ="text/javascript" src="themes/js/superfish.js"></script>	
+		<script type ="text/javascript" src="themes/js/jquery.scrolltotop.js"></script>
+		<!--[if lt IE 9]>			
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="js/respond.min.js"></script>
+		<![endif]-->
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        
+    <div id="top-bar" class="container">
+			<div class="row">
+
+                <div  class="span4">
+						<input type="text" class="input-block-level search-query" placeholder="eg. T-sirt"/>				
+					<a href="Default.aspx" class="logo pull-left"> <img src="themes/images/mylogo.png" class="site_logo" alt=""/></a></div>
+
+
+				<div class="span8">
+					<div class="account pull-right">
+						<ul class="user-menu">			
+                            	
+						<!--	<li><a href="#"><b>My Account</b></a></li>
+							<li><a href="cart.html"><b>Your Cart</b></a></li>
+							<li><a href="checkout.html"><b>Checkout</b></a></li>  -->
+                         <!--   <li><a href="Signup.aspx"><b>Sign Up</b></a></li>		-->
+						<!--	<li><a href="Login.aspx"><b>Login</b></a></li>  -->
+						    <li>				
+					        </li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+           <div class="navbar main-menu">
+				<div class="navbar-inner main-menu">				
+					&nbsp;<nav id="menu" class="pull-right">
+						<ul class="sf-js-enabled sf-shadow">
+
+                             <asp:ContentPlaceHolder ID="ContentPlaceHolder1_5" runat="server">
+
+                             </asp:ContentPlaceHolder>
+
+			       
+						</ul>
+					</nav>
+				</div>
+
+		</div>
+        <div class="pull-right">
+             <select>
+                               <option value="volvo">Volvo</option>
+                               <option value="saab">Saab</option>
+                               <option value="mercedes">Mercedes</option>
+                               <option value="audi">Audi</option>
+                               </select>
+        </div>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        <section id="footer-bar">
+				<div class="row">
+					<div class="span3">
+						<h4>Navigation</h4>
+						<ul class="nav">
+							<li><a href="AdminHome.aspx">Homepage</a></li>  
+									
+						</ul>					
+					</div>
+		<!--			<div class="span4">
+						<h4>My Account</h4>
+						<ul class="nav">
+							<li><a href="#">My Account</a></li>
+							<li><a href="#">Latest Orders</a></li>
+							<li><a href="#">Newsletter</a></li>
+						</ul>
+					</div>   -->
+					<div class="span5">
+						<p class="logo"><img src="themes/images/mylogo.png" class="site_logo" alt=""/></p>
+						
+					</div>					
+				</div>	
+			</section>
+    </form>
+</body>
+</html>
